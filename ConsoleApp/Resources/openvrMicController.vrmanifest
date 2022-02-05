@@ -1,0 +1,18 @@
+{
+  "source": "OpenvrMicController",
+  "applications": [
+    {
+      "app_key": "OpenvrMicController",
+      "launch_type": "binary",
+      "binary_path_windows": "..\\ConsoleApp.exe",
+      "arguments": "run -h",
+      "is_dashboard_overlay": true,
+      "strings": {
+        "en_us": {
+          "name": "OpenvrMicController",
+          "description": "description"
+        }
+      }
+    }
+  ]
+}
